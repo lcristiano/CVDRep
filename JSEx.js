@@ -1,4 +1,4 @@
-function Punto (x,y) {
+function Point (x,y) {
 	this.x = x;
 	this.y = y;
 
@@ -11,7 +11,7 @@ function Punto (x,y) {
 }
 
 
-function Triangolo (a,b,c) {
+function Triangle (a,b,c) {
 	
 	//vertici del triangolo
 	this.v1 = a;
